@@ -1,7 +1,7 @@
-## Hi there 👋
+## Halo, aku Falin. Get to know me  👋
 
 <!--
-**falinoctavia/falinoctavia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**![My project](https://linksharing.samsungcloud.com/bmnhEhQKGTFj)falinoctavia/falinoctavia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
